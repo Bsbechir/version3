@@ -1,0 +1,8 @@
+login,code,nom,langue,role
+1000,MH2025,Mahfoudh,ar,Utilisateur
+1001,ID2025,Idriss,ar,Utilisateur
+1002,HR2025,Haroun,ar,Utilisateur
+1003,GH2025,Ghazali,ar,Utilisateur
+1004,ME2025,Meftah,ar,Utilisateur
+2000,AD2025,Bechir,fr,Admin
+2001,AD2026,Sidi Aly,fr,Admin
